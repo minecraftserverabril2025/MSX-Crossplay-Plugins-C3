@@ -1,142 +1,367 @@
-[04:44:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[04:44:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[04:44:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:44:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[04:44:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.7.0-SNAPSHOT), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[04:45:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:45:04] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[04:45:04] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[04:45:05] [ServerMain/INFO]: No existing world data, creating new world
-[04:45:06] [ServerMain/INFO]: Loaded 1337 recipes
-[04:45:06] [ServerMain/INFO]: Loaded 1448 advancements
-[04:45:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[04:45:07] [Server thread/INFO]: Loading properties
-[04:45:07] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[04:45:07] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:45:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:45:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:45:09] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:45:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:45:09] [Server thread/INFO]: Default game type: SURVIVAL
-[04:45:09] [Server thread/INFO]: Generating keypair
-[04:45:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:45:09] [Server thread/INFO]: Using epoll channel type
-[04:45:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:45:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:45:11] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[04:45:12] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[04:45:12] [Server thread/INFO]: [floodgate] Took 992ms to boot Floodgate
-[04:45:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[04:45:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[04:45:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[04:45:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[04:45:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
-[04:45:14] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[04:45:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[04:45:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:45:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:45:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:45:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:45:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:45:15] [Server thread/INFO]: Preparing level "world"
-[04:45:21] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[04:45:22] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 373.3ms
-[04:45:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:45:27] [Server thread/INFO]: Preparing spawn area: 0%
-[04:45:27] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:28] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:28] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:29] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:29] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:30] [Server thread/INFO]: Preparing spawn area: 2%
-[04:45:30] [Server thread/INFO]: Preparing spawn area: 6%
-[04:45:31] [Server thread/INFO]: Preparing spawn area: 18%
-[04:45:31] [Server thread/INFO]: Preparing spawn area: 18%
-[04:45:32] [Server thread/INFO]: Preparing spawn area: 18%
-[04:45:32] [Server thread/INFO]: Preparing spawn area: 18%
-[04:45:33] [Server thread/INFO]: Preparing spawn area: 18%
-[04:45:33] [Server thread/INFO]: Preparing spawn area: 36%
-[04:45:34] [Server thread/INFO]: Preparing spawn area: 48%
-[04:45:34] [Server thread/INFO]: Preparing spawn area: 51%
-[04:45:35] [Server thread/INFO]: Preparing spawn area: 55%
-[04:45:35] [Server thread/INFO]: Preparing spawn area: 69%
-[04:45:36] [Server thread/INFO]: Preparing spawn area: 73%
-[04:45:36] [Server thread/INFO]: Time elapsed: 9322 ms
-[04:45:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:45:36] [Server thread/INFO]: Preparing spawn area: 0%
-[04:45:36] [Server thread/INFO]: Time elapsed: 405 ms
-[04:45:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:45:36] [Server thread/INFO]: Preparing spawn area: 0%
-[04:45:37] [Server thread/INFO]: Time elapsed: 178 ms
-[04:45:37] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[04:45:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[04:45:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
-[04:45:37] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
-[04:45:37] [Server thread/INFO]: [spark] Starting background profiler...
-[04:45:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:45:38] [Server thread/INFO]: [Geyser-Spigot] 
-[04:45:38] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b808 (git-master-700f932)
-[04:45:38] [Server thread/INFO]: [Geyser-Spigot] 
-[04:45:38] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:45:43] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3852
-[04:45:43] [Server thread/INFO]: [Geyser-Spigot] Done (5.733s)! Run /geyser help for help!
-[04:45:44] [Server thread/INFO]: Done preparing level "world" (29.240s)
-[04:45:44] [Server thread/INFO]: Running delayed init tasks
-[04:45:44] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[04:45:44] [Server thread/INFO]: Done (48.384s)! For help, type "help"
-[04:46:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:48:18] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username ZZRoyers
-[04:48:18] [localSession-7-2/INFO]: [Geyser-Spigot] ZZRoyers (logged in as: ZZRoyers) has connected to the Java server
-[04:48:18] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ZZRoyers joined (UUID: 00000000-0000-0000-0009-01f74c13fc16)
-[04:48:19] [Server thread/INFO]: .ZZRoyers joined the game
-[04:48:19] [Server thread/INFO]: .ZZRoyers[/127.0.0.1:0] logged in with entity id 41 at ([world]3.5, 101.0, 10.5)
-[04:48:58] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] ZZRoyers has disconnected from the Java server because of Bedrock client disconnected
-[04:48:58] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ZZRoyers disconnected
-[04:48:58] [Server thread/INFO]: .ZZRoyers lost connection: Disconnected
-[04:48:58] [Server thread/INFO]: .ZZRoyers left the game
-[04:49:04] [User Authenticator #0/INFO]: UUID of player ZZRoyers_V2 is a23fd5d8-5b41-3a4d-acc0-cb94a9e75a68
-[04:49:05] [Server thread/INFO]: ZZRoyers_V2 joined the game
-[04:49:05] [Server thread/INFO]: ZZRoyers_V2[/127.206.180.139:56657] logged in with entity id 333 at ([world]2.5, 97.0, -6.5)
-[04:50:21] [Server thread/INFO]: ZZRoyers_V2 lost connection: Disconnected
-[04:50:21] [Server thread/INFO]: ZZRoyers_V2 left the game
-[04:50:56] [Server thread/INFO]: Stopping the server
-[04:50:56] [Server thread/INFO]: Stopping server
-[04:50:56] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.0-SNAPSHOT
-[04:50:56] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[04:50:56] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[04:50:56] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
-[04:50:56] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[04:50:56] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[04:50:56] [Server thread/INFO]: Saving players
-[04:50:57] [WebSocketConnectReadThread-82/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[04:50:57] [Server thread/INFO]: Saving worlds
-[04:50:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:50:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[04:50:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[04:50:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Saved 793 block chunks, 660 entity chunks, 3 poi chunks in world 'world' in 2.17s
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[04:50:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[04:50:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[04:50:59] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[04:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:50:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:50:59] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[04:50:59] [Server thread/INFO]: All I/O tasks to complete
-[04:50:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[04:50:59] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[14:47:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[14:47:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[14:47:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:47:28] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/UltimateTimber-3.0.1.jar'...
+[14:47:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/UltimateTimber-3.0.1.jar' in 1698ms.
+[14:47:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[14:47:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - Geyser-Spigot (2.7.0-SNAPSHOT), UltimateTimber (3.0.1), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[14:47:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:47:39] [ServerMain/INFO]: Loaded 1337 recipes
+[14:47:39] [ServerMain/INFO]: Loaded 1448 advancements
+[14:47:39] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[14:47:39] [Server thread/INFO]: Loading properties
+[14:47:39] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[14:47:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:47:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:47:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:47:42] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[14:47:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[14:47:42] [Server thread/INFO]: Default game type: SURVIVAL
+[14:47:42] [Server thread/INFO]: Generating keypair
+[14:47:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:47:42] [Server thread/INFO]: Using epoll channel type
+[14:47:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:47:43] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:47:45] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[14:47:46] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[14:47:46] [Server thread/INFO]: [floodgate] Took 1,200ms to boot Floodgate
+[14:47:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[14:47:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[14:47:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:47:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:47:48] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.0.1
+[14:47:48] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] libraries folder created!
+[14:47:48] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
+[14:47:48] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/com/zaxxer/HikariCP/4.0.3/raw-HikariCP-4.0.3.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/com/zaxxer/HikariCP/4.0.3/raw-HikariCP-4.0.3.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Dependency 'slf4j-api-2.0.11' does not exist in the libraries folder. Attempting to download...
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Dependency 'slf4j-api-2.0.11' successfully downloaded.
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-text-minimessage:4.11.0 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-minimessage/4.11.0/raw-adventure-text-minimessage-4.11.0.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-minimessage/4.11.0/raw-adventure-text-minimessage-4.11.0.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-text-minimessage:4.11.0 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-text-minimessage-4.11.0' successfully.
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/org/reactivestreams/reactive-streams/1.0.2/raw-reactive-streams-1.0.2.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/org/reactivestreams/reactive-streams/1.0.2/raw-reactive-streams-1.0.2.jar
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
+[14:47:49] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/org/mariadb/jdbc/mariadb-java-client/3.2.0/raw-mariadb-java-client-3.2.0.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/org/mariadb/jdbc/mariadb-java-client/3.2.0/raw-mariadb-java-client-3.2.0.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:examination-string:1.3.0 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/examination-string/1.3.0/raw-examination-string-1.3.0.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/examination-string/1.3.0/raw-examination-string-1.3.0.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:examination-string:1.3.0 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'examination-string-1.3.0' successfully.
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-platform-facet:4.1.1 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-facet/4.1.1/raw-adventure-platform-facet-4.1.1.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-facet/4.1.1/raw-adventure-platform-facet-4.1.1.jar
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-platform-facet:4.1.1 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-platform-facet-4.1.1' successfully.
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
+[14:47:50] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/com/h2database/h2/1.4.200/raw-h2-1.4.200.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/com/h2database/h2/1.4.200/raw-h2-1.4.200.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.apache.commons:commons-lang3:3.12.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/org/apache/commons/commons-lang3/3.12.0/raw-commons-lang3-3.12.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/org/apache/commons/commons-lang3/3.12.0/raw-commons-lang3-3.12.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.12.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.12.0' successfully.
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-platform-viaversion:4.1.1 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-viaversion/4.1.1/raw-adventure-platform-viaversion-4.1.1.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-viaversion/4.1.1/raw-adventure-platform-viaversion-4.1.1.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-platform-viaversion:4.1.1 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-platform-viaversion-4.1.1' successfully.
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency com.github.cryptomorin:XSeries:9.8.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/com/github/cryptomorin/XSeries/9.8.0/raw-XSeries-9.8.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/com/github/cryptomorin/XSeries/9.8.0/raw-XSeries-9.8.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:9.8.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-9.8.0' successfully.
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-text-serializer-gson-legacy-impl:4.11.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.11.0/raw-adventure-text-serializer-gson-legacy-impl-4.11.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.11.0/raw-adventure-text-serializer-gson-legacy-impl-4.11.0.jar
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-text-serializer-gson-legacy-impl:4.11.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-text-serializer-gson-legacy-impl-4.11.0' successfully.
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-nbt:4.11.0 from https://repo1.maven.org/maven2
+[14:47:51] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-nbt/4.11.0/raw-adventure-nbt-4.11.0.jar
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-nbt/4.11.0/raw-adventure-nbt-4.11.0.jar
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-nbt:4.11.0 from https://repo1.maven.org/maven2
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-nbt-4.11.0' successfully.
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-text-serializer-legacy:4.11.0 from https://repo1.maven.org/maven2
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-legacy/4.11.0/raw-adventure-text-serializer-legacy-4.11.0.jar
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-legacy/4.11.0/raw-adventure-text-serializer-legacy-4.11.0.jar
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-text-serializer-legacy:4.11.0 from https://repo1.maven.org/maven2
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-text-serializer-legacy-4.11.0' successfully.
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
+[14:47:52] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/org/jooq/jooq/3.14.16/raw-jooq-3.14.16.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/org/jooq/jooq/3.14.16/raw-jooq-3.14.16.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-platform-bukkit:4.1.1 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-bukkit/4.1.1/raw-adventure-platform-bukkit-4.1.1.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-bukkit/4.1.1/raw-adventure-platform-bukkit-4.1.1.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-platform-bukkit:4.1.1 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-platform-bukkit-4.1.1' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-platform-api:4.1.1 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-api/4.1.1/raw-adventure-platform-api-4.1.1.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-platform-api/4.1.1/raw-adventure-platform-api-4.1.1.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-platform-api:4.1.1 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-platform-api-4.1.1' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-text-serializer-gson:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-gson/4.11.0/raw-adventure-text-serializer-gson-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-gson/4.11.0/raw-adventure-text-serializer-gson-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-text-serializer-gson:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-text-serializer-gson-4.11.0' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-text-serializer-plain:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-plain/4.11.0/raw-adventure-text-serializer-plain-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-text-serializer-plain/4.11.0/raw-adventure-text-serializer-plain-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-text-serializer-plain:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-text-serializer-plain-4.11.0' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-api:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-api/4.11.0/raw-adventure-api-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-api/4.11.0/raw-adventure-api-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-api:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-api-4.11.0' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency org.apache.commons:commons-text:1.9 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/org/apache/commons/commons-text/1.9/raw-commons-text-1.9.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/org/apache/commons/commons-text/1.9/raw-commons-text-1.9.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.9 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.9' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:adventure-key:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-key/4.11.0/raw-adventure-key-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/adventure-key/4.11.0/raw-adventure-key-4.11.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:adventure-key:4.11.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'adventure-key-4.11.0' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Downloading dependency net.kyori:examination-api:1.3.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency for relocation plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/examination-api/1.3.0/raw-examination-api-1.3.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Relocated dependency plugins/CraftaroCore/dependencies/v1/libraries/net/kyori/examination-api/1.3.0/raw-examination-api-1.3.0.jar
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency net.kyori:examination-api:1.3.0 from https://repo1.maven.org/maven2
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'examination-api-1.3.0' successfully.
+[14:47:54] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[14:47:54] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
+[14:47:55] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:47:55] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:47:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:47:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:47:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:47:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:47:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:47:55] [Server thread/INFO]: Preparing level "world"
+[14:47:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:47:56] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[14:47:57] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 582.7ms
+[14:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:58] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:59] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:59] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:59] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:59] [Server thread/INFO]: Time elapsed: 2784 ms
+[14:47:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:47:59] [Server thread/INFO]: Preparing spawn area: 0%
+[14:47:59] [Server thread/INFO]: Time elapsed: 450 ms
+[14:47:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:47:59] [Server thread/INFO]: Preparing spawn area: 0%
+[14:48:00] [Server thread/INFO]: Time elapsed: 249 ms
+[14:48:00] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[14:48:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[14:48:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.2-1.21.3 (768)
+[14:48:01] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.0.1
+[14:48:01] [Server thread/INFO]:  
+[14:48:01] [Server thread/INFO]: =============================
+[14:48:01] [Server thread/INFO]: UltimateTimber 3.0.1 by Songoda <3!
+[14:48:01] [Server thread/INFO]: Action: Enabling...
+[14:48:01] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
+[14:48:01] [Server thread/WARN]: java.lang.RuntimeException: Cannot detect NMS version for server version: 1.21.3
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.compatibility.ServerVersion.<clinit>(ServerVersion.java:43)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.commands.CommandManager.registerCommandDynamically(CommandManager.java:364)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.commands.CommandManager.lambda$registerCommandDynamically$3(CommandManager.java:106)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.commands.CommandManager.registerCommandDynamically(CommandManager.java:105)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.init(SongodaCore.java:191)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:172)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:85)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.UltimateTimber.onPluginEnable(UltimateTimber.java:60)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaPlugin.onEnable(SongodaPlugin.java:160)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:48:01] [Server thread/WARN]: java.lang.ClassNotFoundException: net/minecraft/server//MinecraftServer
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.forName(AbstractDefaultRulesReflectionProxy.java:68)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.forName(Unknown Source)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.compatibility.ClassMapping.getClazz(ClassMapping.java:83)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.compatibility.ClassMapping.getClazz(ClassMapping.java:71)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.core.SongodaCoreDiagCommand.<init>(SongodaCoreDiagCommand.java:25)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.init(SongodaCore.java:191)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:172)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:85)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.UltimateTimber.onPluginEnable(UltimateTimber.java:60)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaPlugin.onEnable(SongodaPlugin.java:160)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:48:01] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "clazz" is null
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflection.findMappedMethodName(PaperReflection.java:89)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflection.mapMethodName(PaperReflection.java:69)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.core.SongodaCoreDiagCommand.<init>(SongodaCoreDiagCommand.java:25)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.init(SongodaCore.java:191)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:172)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaCore.registerPlugin(SongodaCore.java:85)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.UltimateTimber.onPluginEnable(UltimateTimber.java:60)
+[14:48:01] [Server thread/WARN]: 	at UltimateTimber-3.0.1.jar//com.craftaro.ultimatetimber.core.SongodaPlugin.onEnable(SongodaPlugin.java:160)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:48:01] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655)
+[14:48:01] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234)
+[14:48:01] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340)
+[14:48:01] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:48:01] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
+[14:48:01] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(1.21.3-R0.1-SNAPSHOT) is not supported by this NBT-API Version(2.12.3) located in UltimateTimber. The NBT-API will try to work as good as it can! Some functions may not work!
+[14:48:01] [Server thread/WARN]: [NBTAPI] [NBTAPI] Unable to find the method 'b' in 'ItemStack' Args: [class net.minecraft.nbt.CompoundTag] Enum: NMSITEM_SAVE
+[14:48:01] [Server thread/WARN]: [NBTAPI] [NBTAPI] Unable to find the method 'c' in 'ItemStack' Args: [class net.minecraft.nbt.CompoundTag] Enum: ITEMSTACK_SET_TAG
+[14:48:01] [Server thread/WARN]: [NBTAPI] [NBTAPI] Unable to find the method 'a' in 'NbtUtils' Args: [class net.minecraft.nbt.CompoundTag, class com.mojang.authlib.GameProfile] Enum: GAMEPROFILE_SERIALIZE
+[14:48:02] [Server thread/ERROR]: [NBTAPI] Unable to find the constructor for the class 'net.minecraft.world.item.ItemStack'
+java.lang.NoSuchMethodException: net.minecraft.world.item.ItemStack.<init>(net.minecraft.nbt.CompoundTag)
+	at java.base/java.lang.Class.getConstructor0(Class.java:3761) ~[?:?]
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:2930) ~[?:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.utils.nmsmappings.ObjectCreator.<init>(ObjectCreator.java:36) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.utils.nmsmappings.ObjectCreator.<clinit>(ObjectCreator.java:22) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NBTContainer.<init>(NBTContainer.java:27) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NBTReflectionUtil.<clinit>(NBTReflectionUtil.java:610) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NBTCompound.setBoolean(NBTCompound.java:512) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.manager.TreeDefinitionManager.loadAxe(TreeDefinitionManager.java:264) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.manager.TreeDefinitionManager.reload(TreeDefinitionManager.java:199) ~[UltimateTimber-3.0.1.jar:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.UltimateTimber.onConfigReload(UltimateTimber.java:100) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.SongodaPlugin.reloadConfig(SongodaPlugin.java:85) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.UltimateTimber.onPluginEnable(UltimateTimber.java:84) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.SongodaPlugin.onEnable(SongodaPlugin.java:160) ~[UltimateTimber-3.0.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14:48:02] [Server thread/ERROR]: Unexpected error while loading UltimateTimber v3.0.1 (core v3.0.5-SNAPSHOT-local): Disabling plugin!
+com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NbtApiException: [?][2.12.3]Error while calling the method 'putBoolean', loaded: true, Enum: COMPOUND_SET_BOOLEAN, Passed Class: class net.minecraft.world.item.ItemStack
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.utils.nmsmappings.ReflectionMethod.run(ReflectionMethod.java:386) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NBTReflectionUtil.setData(NBTReflectionUtil.java:606) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.NBTCompound.setBoolean(NBTCompound.java:512) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.manager.TreeDefinitionManager.loadAxe(TreeDefinitionManager.java:264) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.manager.TreeDefinitionManager.reload(TreeDefinitionManager.java:199) ~[UltimateTimber-3.0.1.jar:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.UltimateTimber.onConfigReload(UltimateTimber.java:100) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.SongodaPlugin.reloadConfig(SongodaPlugin.java:85) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.UltimateTimber.onPluginEnable(UltimateTimber.java:84) ~[UltimateTimber-3.0.1.jar:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.SongodaPlugin.onEnable(SongodaPlugin.java:160) ~[UltimateTimber-3.0.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:655) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:768) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:530) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:326) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1234) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: object is not an instance of declaring class
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.checkReceiver(DirectMethodHandleAccessor.java:197) ~[?:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:99) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at UltimateTimber-3.0.1.jar/com.craftaro.ultimatetimber.core.third_party.de.tr7zw.nbtapi.utils.nmsmappings.ReflectionMethod.run(ReflectionMethod.java:383) ~[UltimateTimber-3.0.1.jar:?]
+	... 21 more
+[14:48:02] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v3.0.1
+[14:48:02] [Server thread/INFO]: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:48:02] [Server thread/INFO]:  
+[14:48:02] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
+[14:48:02] [Server thread/INFO]: [spark] Starting background profiler...
+[14:48:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:48:03] [Server thread/INFO]: [Geyser-Spigot] 
+[14:48:03] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b808 (git-master-700f932)
+[14:48:03] [Server thread/INFO]: [Geyser-Spigot] 
+[14:48:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:48:11] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3852
+[14:48:11] [Server thread/INFO]: [Geyser-Spigot] Done (8.404s)! Run /geyser help for help!
+[14:48:12] [Server thread/INFO]: Done preparing level "world" (16.482s)
+[14:48:12] [Server thread/INFO]: Running delayed init tasks
+[14:48:12] [Server thread/INFO]: Done (46.373s)! For help, type "help"
+[14:48:12] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[14:48:42] [User Authenticator #0/INFO]: UUID of player ZZRoyers_V2 is a23fd5d8-5b41-3a4d-acc0-cb94a9e75a68
+[14:48:45] [Server thread/INFO]: ZZRoyers_V2 joined the game
+[14:48:45] [Server thread/INFO]: ZZRoyers_V2[/127.28.150.149:35629] logged in with entity id 87 at ([world]-0.9848801617860093, 100.0, 13.443417933415642)
+[14:49:33] [Server thread/INFO]: Made ZZRoyers_V2 a server operator
+[14:49:44] [Server thread/INFO]: ZZRoyers_V2 issued server command: /gamemode creative
+[14:49:45] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Creative Mode]
+[14:50:27] [Server thread/INFO]: ZZRoyers_V2 issued server command: /gamemode survival
+[14:50:27] [Server thread/INFO]: [ZZRoyers_V2: Set own game mode to Survival Mode]
+[14:57:03] [Server thread/INFO]: ZZRoyers_V2 was slain by Zombie
