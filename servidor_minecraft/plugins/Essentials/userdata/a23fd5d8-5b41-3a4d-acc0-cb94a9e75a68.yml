@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1744960059807
-  login: 1744958876777
-money: '31.9499999999999995'
+  logout: 1744964936653
+  login: 1744964674882
+money: '36.9999999999999995'
 last-account-name: ZZRoyers_V2
 logoutlocation:
   world: 225a5315-2848-4933-93e1-2d5bc2d5d628
   world-name: world
-  x: 278.5
-  y: 76.0
-  z: 242.5
-  yaw: 38.60177230834961
-  pitch: -90.0
+  x: 1.204038720797273
+  y: 96.0
+  z: 217.69401024003713
+  yaw: 19.66476058959961
+  pitch: -62.712501525878906
