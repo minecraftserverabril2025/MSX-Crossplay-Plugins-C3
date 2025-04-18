@@ -934,3 +934,4 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apa
 [09:06:21] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [09:06:21] [Server thread/INFO]: [AngelChest] ========================================================
 [09:07:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:06:18] [Craft Scheduler Thread - 35 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] Auto-purge: no claims removed.
