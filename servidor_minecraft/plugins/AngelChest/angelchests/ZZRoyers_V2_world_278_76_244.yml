@@ -1,0 +1,152 @@
+angelchest-saveversion: 2
+uniqueId: 8ccd4d40-8ea1-4ad6-add5-073d9735d9b6
+suspend-countdowns-when-player-is-offline: false
+worldid: 225a5315-2848-4933-93e1-2d5bc2d5d628
+x: 278
+y: 76
+z: 244
+infinite: false
+owner: a23fd5d8-5b41-3a4d-acc0-cb94a9e75a68
+isProtected: true
+secondsLeft: 221
+unlockIn: -1
+created: 1744959672601
+experience: 14
+levels: 0
+price: 0.0
+customblock:
+  entities: []
+  location:
+    worldid: 225a5315-2848-4933-93e1-2d5bc2d5d628
+    x: 278
+    y: 76
+    z: 244
+  id: minecraft:CHEST
+  originalBlockData: minecraft:air
+deathCause:
+  damageCause: ENTITY_ATTACK
+  killer: IRON_GOLEM
+opened-by: []
+logfile: ZZRoyers_V2_world_2025-04-18_07-01-12.log
+storageInv:
+- null
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: IRON_AXE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    Damage: 65
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: OAK_LOG
+  amount: 4
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: PORKCHOP
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: MUTTON
+  amount: 2
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: WHITE_WOOL
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: FEATHER
+  amount: 3
+- ==: org.bukkit.inventory.ItemStack
+  v: 4082
+  type: CHICKEN
+  amount: 2
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armorInv:
+- null
+- null
+- null
+- null
+extraInv:
+- null
+overflowInv:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
