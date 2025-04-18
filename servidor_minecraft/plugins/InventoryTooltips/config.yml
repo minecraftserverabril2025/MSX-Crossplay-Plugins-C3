@@ -1,0 +1,18 @@
+# This is the configuration file for InventoryTooltips
+# Made by Plotzes
+
+
+
+# This setting defines how big the items in the tooltips should be, measured in blocks.
+# The higher the number, the bigger the tooltips will be.
+item_size: 0.25
+
+
+# This setting defines the duration of the tooltip opening and closing animations.
+# It is measured in ticks (1 tick = 0.05 sec). The higher the number, the slower the animation.
+animation_duration: 5
+
+
+# If this setting is enabled, all tooltips will be in front of the container instead of above the container.
+# A container with a block above it will always have its tooltip in front of the container.
+tooltip_in_front_of_block: false

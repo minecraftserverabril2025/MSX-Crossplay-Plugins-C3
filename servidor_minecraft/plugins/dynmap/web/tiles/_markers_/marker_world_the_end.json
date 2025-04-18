@@ -1,0 +1,21 @@
+{"sets": {"redprotect.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "RedProtect","markers": {}
+,"lines": {}
+,"layerprio": 10,"minzoom": 0,"showlabels": true}
+,"SimpleClaimSystem": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Claims","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {"_worldborder_world_the_end": {"fillcolor": "#000000","ytop": 1.00,"color": "#FF0000","markup": false,"x": [-900.00,1100.00,1100.00,-900.00]
+,"weight": 3,"z": [-1200.00,-1200.00,800.00,800.00]
+,"ybottom": 1.00,"label": "Border","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Markers","markers": {"_spawn_world_the_end": {"markup": false,"x": 0.00,"icon": "world","y": 109.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1744959818315}

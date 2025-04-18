@@ -1,0 +1,73 @@
+reinforcement_visibility_only_show_to_owner: true # If true, visibility mode will only show blocks they themself have reinforced.
+reinforcement_owner_bypass: false # If true, the owner of a block will be able to break it in one go but other players will still have to go through the reinforcement
+reinforcement_explosion_strength: 8 # How many "breaks" should an explosion incur on the reinforced block? Strength lowers as explosion gets farther. 
+reinforcement_blocks_can_burn: false # Can reinforced blocks burn? If enabled, fire will take the reinforcement level and takes that many times longer to burn.
+reinforcement_blocks: # What block(s) are used to reinforce, how many HP do they contribute per reinforce, and what's the maximum amount of "HP" allowed? Refer to: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - [OBSIDIAN, 10, 20]
+  - [IRON_INGOT, 5, 10]
+reinforcement_block_drop_chance: 40 # Chance of dropping [reinforcement_block] when a reinforced block is destroyed (in percent)
+reinforcement_damage_on_break_only: false # If false, we will damage the tool everytime the block is damaged. If true, it will only count towards one durability point when the item is actually broken.
+reinforcement_not_reinforceable: # What blocks cannot be reinforced? Refer to: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+  - BEDROCK
+  - ENDER_PORTAL_FRAME
+  - TALL_GRASS
+  - GRASS
+  - BAMBOO
+  - FLOWER
+  - MUSHROOM
+  - DEAD_BUSH
+  - SUGAR_CANE
+  - VINE
+  - NETHER_WART
+  - STEM
+  - SAPLING
+  - BARRIER
+  - BEETROOT
+  - BANNER
+  - CARPET
+  - BRAIN_CORAL
+  - CHORUS_FLOWER
+  - COMMAND_BLOCK 
+  - MOVING_PISTON
+  - PISTON_HEAD
+  - TNT
+  - FIRE
+  - SNOW
+  - ICE
+  - CACTUS
+  - PORTAL
+  - CAKE_BLOCK
+  - ENDER_PORTAL
+  - ROSE
+  - SUNFLOWER
+  - ORCHID
+  - CAMPFIRE
+  - DANDELION
+  - RAIL
+  - KELP
+  - CRYSTAL
+  - GATEWAY
+  - PORTAL
+  - END_ROD
+  - FERN
+  - GLASS_PANE
+  - PRESSURE_PLATE
+  - IRON_BARS
+  - TRAPDOOR
+  - LADDER
+  - LILAC
+  - LILY
+  - TULIP
+  - BLUET
+  - POPPY
+  - POTTED
+  - ALLIUM
+  - REDSTONE
+  - SCAFFOLDING
+  - BERRY
+  - BERRIES
+  - TORCH
+  - HEAD
+  - WALL
+  - DOOR
+  - AIR

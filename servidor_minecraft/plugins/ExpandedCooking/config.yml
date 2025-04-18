@@ -1,0 +1,120 @@
+#===================================================
+#    ______                           __         __
+#   / ____/  ______  ____ _____  ____/ /__  ____/ /
+#  / __/ | |/_/ __ \/ __ `/ __ \/ __  / _ \/ __  / 
+# / /____>  </ /_/ / /_/ / / / / /_/ /  __/ /_/ /  
+#/_____/_/|_/ .___/\__,_/_/ /_/\__,_/\___/\__,_/   
+#       ___/_/            __   _                   
+#      / ____/___  ____  / /__(_)___  ____ _       
+#     / /   / __ \/ __ \/ //_/ / __ \/ __ `/       
+#    / /___/ /_/ / /_/ / ,< / / / / / /_/ /        
+#    \____/\____/\____/_/|_/_/_/ /_/\__, /         
+#                                  /____/     
+#
+#  A plugin Authored by: s5y    
+#
+#=================================================== 
+
+#====================
+# Effects:
+#   poison -> Poison effect
+#   fireResistance -> Fire Resistance effect 
+#   protection -> Damage resistance effect 
+#   regeneration -> Regeneration effect
+#   luck -> Fortune effect    
+#
+#====================
+
+#Use your own effects
+UseCustomEffects: false
+
+#Time in seconds
+EffectsTime: 5
+
+#----------------
+#  Food Qualities
+#  & Effects
+#----------------
+
+CardboardQualityName: "&lBasically Cardboard"
+
+HomemadeEXP: 960
+HomemadeEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+HomemadeQualityName: "&aHome-Made"
+
+TastyEXP: 1920
+TastyEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+TastyQualityName: "&6Tasty"
+  
+DelusciousEXP: 2880
+DelusciousEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+DelusciousQualityName: "&eDeluscious"
+
+GourmetEXP: 4800
+GourmetEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+GourmetQualityName: "&bGourmet"
+
+RestaurantQualityEXP: 6720
+RestaurantQualityEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+RestaurantQualityName: "&9Restaurant Quality"
+  
+OneStarEXP: 9600
+OneStarEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+OneStarQualityName: "&3One Star"
+  
+TwoStarEXP: 12480
+TwoStarEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+TwoStarQualityName: "&3Two Star"  
+
+ThreeStarEXP: 16320
+ThreeStarEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+ThreeStarQualityName: "&5Three Star"
+  
+LegendaryEXP: 30000
+LegendaryEffects:
+  - poison
+  - fireResistance
+  - protection
+  - regeneration
+  - luck
+LegendaryQualityName: "&6Ledgendary"
