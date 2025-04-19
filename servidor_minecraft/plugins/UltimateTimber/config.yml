@@ -53,7 +53,7 @@ apply-silk-touch-tool-damage: true
 
 # Require the entire base of the tree to be broken before it topples
 # Default: false
-break-entire-tree-base: false
+break-entire-tree-base: true
 
 # Don't drop a block for the block that initiates the tree fall
 # Default: false
@@ -88,7 +88,7 @@ player-tree-topple-cooldown-length: 5
 
 # Allow players to topple trees regardless of what they are holding in their hand
 # Default: false
-ignore-required-tools: false
+ignore-required-tools: verdadero
 
 # Automatically replant saplings when a tree is toppled
 # Default: true
@@ -96,7 +96,7 @@ replant-saplings: true
 
 # Always replant saplings for base tree blocks, regardless of player permissions
 # Default: false
-always-replant-sapling: false
+always-replant-sapling: true
 
 # How many seconds to prevent players from breaking replanted saplings
 # Set to 0 to disable

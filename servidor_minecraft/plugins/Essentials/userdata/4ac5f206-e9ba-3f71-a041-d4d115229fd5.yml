@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.28.150.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745078279908
+  login: 1745078160253
+money: '0'
+last-account-name: ZZRoyers_Admin
+logoutlocation:
+  world: 225a5315-2848-4933-93e1-2d5bc2d5d628
+  world-name: world
+  x: 4.0730870414190905
+  y: 100.0
+  z: 0.9810234428308322
+  yaw: 139.37095642089844
+  pitch: 40.598419189453125
