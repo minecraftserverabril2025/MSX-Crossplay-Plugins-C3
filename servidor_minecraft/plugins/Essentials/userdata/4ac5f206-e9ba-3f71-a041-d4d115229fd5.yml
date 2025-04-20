@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1745078279908
-  login: 1745078160253
+  logout: 1745167188095
+  login: 1745167092902
 money: '0'
 last-account-name: ZZRoyers_Admin
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: 4.0730870414190905
   y: 100.0
   z: 0.9810234428308322
-  yaw: 139.37095642089844
-  pitch: 40.598419189453125
+  yaw: 62.50019454956055
+  pitch: 24.474220275878906

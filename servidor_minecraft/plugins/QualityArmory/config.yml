@@ -95,4 +95,6 @@ RegenDestructableBlocksAfter: -1
 overrideAttackSpeed: true
 DefaultResourcepack:
   '0': https://github.com/ZombieStriker/QualityArmory-Resourcepack/releases/download/latest/QualityArmory.zip
-  '21': https://github.com/ZombieStriker/QualityArmory-Resourcepack/releases/download/latest/QualityArmory-21.zip
+  21-4: https://github.com/ZombieStriker/QualityArmory-Resourcepack/releases/download/latest/QualityArmory-21.zip
+useMoveForRecoil: true
+Headshot_Blacklist: []
