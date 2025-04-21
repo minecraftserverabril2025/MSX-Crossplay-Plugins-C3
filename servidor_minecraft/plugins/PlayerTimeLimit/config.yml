@@ -15,8 +15,8 @@ boss_bar:
   color: RED
   style: SEGMENTED_10
 time_limits:
-  default: 3600
-  vip: 7200
+  default: 10800
+  vip: 21600
   op: 0
 notification:
   '60':
@@ -32,4 +32,4 @@ notification:
     - '{centered}&cYou have &730 seconds &cleft to play on the server.'
     - ''
 Data:
-  next_millis_reset: 1745236800491
+  next_millis_reset: 1745323200057
