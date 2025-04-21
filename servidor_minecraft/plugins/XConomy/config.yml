@@ -16,7 +16,7 @@ Importdata-mode: false
 Settings:
   #Chinese ChineseTW English French Spanish Russian Turkish Japanese German
   #Indonesia Portuguese Italian
-  language: English
+  language: Spanish
   #Whether to check for new version
   check-update: true
   #TOP10 and the Server Total refresh time interval (Seconds)

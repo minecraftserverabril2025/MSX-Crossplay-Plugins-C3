@@ -20,10 +20,10 @@ MoneyDropsOnGround:
 # Whether certain mobs should drop money
 # Slimes/MagmaCubes that have split will not be classed as a natural mob or a spawner mob.
 MoneyDropsFromNaturalMobs: true
-MoneyDropsFromSpawnerMobs: true
+MoneyDropsFromSpawnerMobs: false
 MoneyDropsFromSpawnEggMobs: true
-MoneyDropsFromSplitSlimes: true
-MoneyDropsFromBabyMobs: true
+MoneyDropsFromSplitSlimes: false
+MoneyDropsFromBabyMobs: false
 
 # Disable money drops in a certain world by adding the world name to this list
 # To disable money drops in a WorldGuard region set the flag 'drop-money' or 'player-drop-money' to deny. This only works with the latest version of WorldGuard
@@ -32,7 +32,7 @@ DisabledWorlds:
   - world2
   
 # How many times a player can get a mob to drop money per minute. Set to 0 if you want it to be unlimited.
-MaxDropsPerMinute: 0
+MaxDropsPerMinute: 10
 
 # If the random number between the set Min and Max for a mob should be a random whole number or a random number to 2 decimal places.
 RandomIntegerOnly: false
@@ -72,7 +72,7 @@ Particle:
 # This option loops through all players and checks for dropped items every so many ticks to see if there is money next to a player so if you have a lot of players it could cause lag.
 # You only need to enable this option if you are not using PaperMC 1.13+, as PaperMC allows you to pick up money when your inventory is full without this option. https://papermc.io/downloads
 PickupMoneyWhenInventoryIsFull:
-  Enabled: true
+  Enabled: false
   # Interval = how often the plugin checks for items around the player. 5 = checks every 5 ticks (20 ticks = 1 second).
   Interval: 5
   # Radius = radius around player to check for money
@@ -100,16 +100,16 @@ ShowMessageInChat:
   Message: '&aYou picked up $%amount%!'
 ShowMessageInActionBar:
   Enabled: true
-  Message: '&aYou picked up $%amount%! You now have: $%balance%!'
+  Message: '&aHas conseguido $%amount%! Ahora tienes: $%balance%!'
 ShowMessageAsFloatingText:
   Enabled: true
   Message: '&a+$%amount%!'
   # Starting height of the floating text message in blocks
-  Height: 2.4
+  Height: 2.0
   # Whether the message moves upwards or stays still
   Movement: true
   # Time in seconds before the floating text message vanishes
-  Duration: 1
+  Duration: 2.0
 
 # Messages sent when using /MfmMute
 MuteToggleOnMessage: '&cMessages will no longer be shown when you pick up money dropped by mobs!'
@@ -142,7 +142,7 @@ SendEventMessageAsTitle: false
 # Amount: 10% = Player drops 10% of their balance. Doesn't have to be a percentage
 PLAYER:
   Enabled: true
-  Amount: 10%
+  Amount: 25%
   DropChance: 100
   NumberOfDrops: 5
   OnlyOnKill: true
@@ -159,266 +159,266 @@ ARMADILLO:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 CHICKEN:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PIG:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SHEEP:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 COW:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 MUSHROOM_COW:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PARROT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SQUID:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 BAT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 OCELOT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 CAT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PANDA:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 HORSE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SKELETON_HORSE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ZOMBIE_HORSE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 DONKEY:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 MULE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 LLAMA:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 TRADER_LLAMA:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 FOX:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 RABBIT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 TURTLE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 POLAR_BEAR:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 COD:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SALMON:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PUFFERFISH:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 TROPICAL_FISH:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 DOLPHIN:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 BEE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 WOLF:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SNOWMAN:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 GOAT:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 GLOW_SQUID:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 AXOLOTL:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 TADPOLE:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 FROG:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 CAMEL:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SNIFFER:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
   
