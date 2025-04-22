@@ -706,3 +706,8 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apa
 [02:45:52] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [02:45:52] [Server thread/INFO]: [AngelChest] ========================================================
 [02:46:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:01:17] [User Authenticator #0/INFO]: UUID of player Isaac_c30 is 82ebcaad-2180-3562-b943-db89515ccebf
+[03:01:19] [Server thread/INFO]: [DirectionHUD] Creating new `82ebcaad-2180-3562-b943-db89515ccebf.json`
+[03:01:20] [Server thread/INFO]: [+] Isaac_c30
+[03:01:20] [Server thread/INFO]: Isaac_c30[/127.162.246.34:49253] logged in with entity id 28 at ([world]6.5, 101.0, 9.5)
+[03:01:20] [Craft Scheduler Thread - 26 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] Isaac_c30 is now registered (82ebcaad-2180-3562-b943-db89515ccebf).
