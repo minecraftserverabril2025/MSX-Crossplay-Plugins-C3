@@ -722,3 +722,7 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apa
 [03:20:19] [Craft Scheduler Thread - 34 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] hextor_667 is now registered (32447176-94b0-3a0e-b5b2-b2f93f1b96db).
 [03:22:09] [Server thread/INFO]: hextor_667 has made the advancement [Stone Age]
 [03:22:41] [Server thread/INFO]: hextor_667 has made the advancement [Getting an Upgrade]
+[03:25:38] [Server thread/INFO]: hextor_667 has made the advancement [Monster Hunter]
+[03:25:50] [Server thread/INFO]: hextor_667 has made the advancement [Sweet Dreams]
+[03:29:09] [Server thread/INFO]: hextor_667 issued server command: /money
+[03:29:15] [Server thread/INFO]: hextor_667 issued server command: /shopkeeper
