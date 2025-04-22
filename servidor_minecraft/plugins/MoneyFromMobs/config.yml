@@ -60,7 +60,7 @@ CreativeModeDropsMoney: true
 Sound:
   Enabled: true
   SoundToBePlayed: entity.item.pickup
-  Volume: 50
+  Volume: 75
   Pitch: 1
 
 # ParticleEffect = Particle effect spawned on pickup. Particles list: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
@@ -109,7 +109,7 @@ ShowMessageAsFloatingText:
   # Whether the message moves upwards or stays still
   Movement: true
   # Time in seconds before the floating text message vanishes
-  Duration: 2.0
+  Duration: 5.0
 
 # Messages sent when using /MfmMute
 MuteToggleOnMessage: '&cMessages will no longer be shown when you pick up money dropped by mobs!'
@@ -428,126 +428,126 @@ BREEZE:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 BOGGED:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ZOMBIE:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ZOMBIE_VILLAGER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 DROWNED:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 HUSK:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 STRAY:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 GIANT:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SPIDER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 CAVE_SPIDER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SKELETON:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 GUARDIAN:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ELDER_GUARDIAN:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SLIME:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SILVERFISH:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 WITCH:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 CREEPER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PHANTOM:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 
@@ -556,63 +556,63 @@ VILLAGER:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 WANDERING_TRADER:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ALLAY:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 IRON_GOLEM:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 VINDICATOR:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 EVOKER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PILLAGER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 RAVAGER:
   Enabled: true
   Min: 10
   Max: 10
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 VEX:
   Enabled: true
   Min: 5
   Max: 5
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 
@@ -621,14 +621,14 @@ WITHER_SKELETON:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 STRIDER:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 # This is old Zombie Pigman used for 1.15 and under
@@ -636,63 +636,63 @@ PIG_ZOMBIE:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PIGLIN:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 PIGLIN_BRUTE:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ZOMBIFIED_PIGLIN:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 HOGLIN:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ZOGLIN:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 MAGMA_CUBE:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 BLAZE:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 GHAST:
   Enabled: true
   Min: 15
   Max: 15
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 
@@ -701,21 +701,21 @@ ENDERMAN:
   Enabled: true
   Min: 20
   Max: 20
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 ENDERMITE:
   Enabled: true
   Min: 20
   Max: 20
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 SHULKER:
   Enabled: true
   Min: 20
   Max: 20
-  DropChance: 25
+  DropChance: 100
   NumberOfDrops: 1-3
   OnlyOnKill: true
 

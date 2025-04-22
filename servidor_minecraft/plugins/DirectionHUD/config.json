@@ -14,7 +14,7 @@
   },
   "hud": {
     "editing": true,
-    "loop-ticks": 1
+    "loop-ticks": 30
   },
   "destination": {
     "saving": true,

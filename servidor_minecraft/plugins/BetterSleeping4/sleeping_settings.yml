@@ -21,7 +21,7 @@ sleeper_calculator: "percentage"
 # This depends on your sleeper_calculator setting
 #     Percentage: This value is the percentage of players in a world that must sleep ([0, 100])
 #     Absolute: This value is always the amount of players that must sleep, does not scale with the amount of online players!
-needed: 30
+needed: 5
 
 # The duration (in seconds) of the night when enough players are sleeping
 # Set this to 0 to skip the night instantly

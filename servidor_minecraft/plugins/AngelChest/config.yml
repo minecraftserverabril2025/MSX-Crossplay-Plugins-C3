@@ -144,7 +144,7 @@
 # giving players the angelchest.group.<groupname> permission. See
 # groups.example.yml for more information.
 # Default is 600 seconds = 10 minutes
-angelchest-duration: 600
+angelchest-duration: 1800
 
 # The "angelchest-duration" (see above) for players who died in PvP.
 # Use 0 for infinite duration.
