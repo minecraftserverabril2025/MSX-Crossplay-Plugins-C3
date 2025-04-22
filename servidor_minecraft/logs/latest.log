@@ -715,3 +715,10 @@ Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apa
 [03:09:43] [Server thread/INFO]: Isaac_c30 lost connection: Disconnected
 [03:09:43] [Server thread/INFO]: [-] Isaac_c30
 [03:10:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:20:17] [User Authenticator #1/INFO]: UUID of player hextor_667 is 32447176-94b0-3a0e-b5b2-b2f93f1b96db
+[03:20:19] [Server thread/INFO]: [DirectionHUD] Creating new `32447176-94b0-3a0e-b5b2-b2f93f1b96db.json`
+[03:20:19] [Server thread/INFO]: [+] hextor_667
+[03:20:19] [Server thread/INFO]: hextor_667[/127.133.36.144:50887] logged in with entity id 1698 at ([world]-4.5, 95.0, -2.5)
+[03:20:19] [Craft Scheduler Thread - 34 - SimpleClaimSystem/INFO]: [SimpleClaimSystem] hextor_667 is now registered (32447176-94b0-3a0e-b5b2-b2f93f1b96db).
+[03:22:09] [Server thread/INFO]: hextor_667 has made the advancement [Stone Age]
+[03:22:41] [Server thread/INFO]: hextor_667 has made the advancement [Getting an Upgrade]
