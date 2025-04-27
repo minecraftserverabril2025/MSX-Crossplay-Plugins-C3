@@ -8,7 +8,7 @@ skills:
     xp: 0.0
   auraskills/excavation:
     level: 0
-    xp: 4.7
+    xp: 6.1000000000000005
   auraskills/archery:
     level: 0
     xp: 0.0
@@ -32,7 +32,7 @@ skills:
     xp: 2.3600001335144043
   auraskills/agility:
     level: 0
-    xp: 1.662
+    xp: 19.252
 mana: 20.0
 action_bar:
   idle: true
