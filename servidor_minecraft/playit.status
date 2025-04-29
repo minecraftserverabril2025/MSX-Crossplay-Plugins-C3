@@ -1,3287 +1,466 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745963936385 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745966970051 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963939491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966973137 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963942611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966976227 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963946704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966979426 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963949778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966982501 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963952863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966985576 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963955945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966988644 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963959011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966991892 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963962078 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966994954 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963965150 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745966998021 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963968228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967001091 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963971304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967004169 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963975670 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967007317 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963978824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967010392 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963981894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967013466 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963984965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967016628 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963988117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967019721 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963991262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967022886 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963994491 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967025984 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745963997571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967029095 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964000653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967032166 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964003755 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967035245 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964007123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967038312 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964010244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967041393 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964013348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967044471 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964016422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967047609 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964019696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967050822 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964022760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967053897 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964025863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967056972 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964028977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967060043 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964032054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967063221 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964035153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967066294 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964038225 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967069502 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964041438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967072621 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964044520 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967076336 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964047775 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967080773 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964050863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967084431 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964053926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967087853 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964057021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967090937 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964060096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967094009 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964063178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967097131 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964066367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967100253 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964069544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967103324 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964072621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967106400 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964075711 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967109677 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964078877 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967112751 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964082020 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967115838 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964085102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967119004 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964088322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967122273 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964091407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967125497 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964096006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967128613 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964099734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967131679 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964102798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967134745 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964106179 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967138070 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964109311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967141257 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964112498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967144550 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964115730 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967147849 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964120149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967150927 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964123268 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967154146 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964126341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967157223 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964129433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967160364 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964132507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967163430 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964135585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967166502 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964138855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967170184 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964142069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967173248 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964145175 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967176331 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
 there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964148417 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964152355 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964156135 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964159271 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964162334 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964165435 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964168499 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964171568 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964175221 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964178285 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964181610 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964184714 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964187775 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964190843 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964194078 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964197331 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964200511 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964203749 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964207179 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964210664 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964213745 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964216822 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964220030 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964223109 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964226200 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964229277 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964232434 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964235533 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964239697 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964242768 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964245848 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964249033 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964252134 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964255248 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964258328 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964261397 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964264474 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964267630 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964270736 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964273821 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964277002 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964280077 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964283166 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964286296 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964289360 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964292439 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964295763 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964298852 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964301955 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964305143 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964308235 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964311331 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964314425 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964318668 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964322402 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964325481 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964328566 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964331650 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964334728 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964337879 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964340947 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964344333 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964347445 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964350515 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964353603 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964356669 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964359734 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964362815 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964366239 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964369345 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964372741 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964375845 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964379015 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964382693 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964385789 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964388866 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964391950 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964395053 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964398205 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964401276 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964404588 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964407666 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964411216 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964414385 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964417462 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964420552 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964423653 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964426764 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964429964 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964433373 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964436650 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964439797 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964443102 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964446168 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964449325 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964452401 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964455567 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964458638 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964461728 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964464816 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964467924 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964471119 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964476060 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964479276 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964482360 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964485615 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964488739 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964491820 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964495146 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964498276 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964501367 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964504432 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964507533 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964510636 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964513849 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964516935 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964520004 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964523082 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964526297 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964529406 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964532525 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964535608 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964538741 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964542196 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964545325 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964548455 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964551564 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964554632 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964557717 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964560789 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964563962 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964567036 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964570101 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964573202 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964576335 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964579636 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964582883 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964586281 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964589424 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964592513 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964595704 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964598787 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964601859 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964604974 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964608039 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964611366 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964614470 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964617536 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964620605 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964624114 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964627246 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964630445 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964633565 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964636654 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964639738 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964642804 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964645917 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964649013 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964652194 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964655269 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964658353 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964661436 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964664507 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964667578 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964670696 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964673825 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964676911 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964680002 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964683251 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964686319 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964689382 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964692455 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964695545 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964698613 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964701876 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964705131 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964708205 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964711399 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964714634 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964717698 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964720775 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964723841 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964726912 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964729988 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964733065 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964736439 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964739521 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964742722 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964745962 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964749050 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964752186 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964755334 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964758412 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964761705 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964764790 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964767860 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964771041 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964774134 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964777292 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964780440 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964783507 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964786790 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964789853 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964792985 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964796062 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964799125 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964802382 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964805734 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964808805 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964811899 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964815084 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964818180 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964821267 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964824359 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964827490 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964830686 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964833899 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964837089 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964840286 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964843369 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964846431 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964849500 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964852586 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964855761 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964858828 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964862108 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964866479 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964871257 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964874399 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964877626 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964880748 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964883817 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964886877 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964890107 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964893179 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964896252 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964899327 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964902474 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964905991 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964909473 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964912557 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964915620 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964918706 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964921816 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964925057 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964928283 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964931740 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964934797 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964937872 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964941130 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964944203 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964947274 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964950793 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964953853 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964956915 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964959987 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964963352 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964966548 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964969637 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964972706 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964975783 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964978886 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964981964 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964985035 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964988104 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964991186 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964994280 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745964997379 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965000452 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965003519 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965006591 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965009665 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965012795 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965015882 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965018942 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965022365 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965025451 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965028585 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965031665 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965034744 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965037953 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965041033 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965044102 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965047192 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965050263 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965053336 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965056562 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965059661 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965062960 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965066033 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965069477 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965072621 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965076199 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965079271 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965082415 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965085493 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965088562 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965091649 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965094818 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965097906 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965100999 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965105946 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965109016 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965112100 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965115207 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965118303 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965121368 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965124450 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965127682 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965130779 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965133889 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965136961 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965140140 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965143258 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965146334 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965150397 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965153498 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965156575 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965159638 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965162707 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965165773 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965169026 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965172103 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965175465 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965178538 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965181870 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965184975 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965188034 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965192069 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965195167 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965198263 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965201441 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965204539 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965207601 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965210688 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965213767 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965216840 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965219910 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965222996 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965226331 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965229414 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965232485 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965235575 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965238677 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965241771 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965245327 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965248472 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965251550 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965254798 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965257873 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965261104 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965264180 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965267247 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965270318 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965273403 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965276487 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965279594 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965282733 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965285994 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965289134 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965292220 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965295288 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965298948 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965302070 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965305138 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965308291 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965311380 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965314455 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965317529 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965320604 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965323944 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965327030 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965330424 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965333537 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965336624 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965339695 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965342778 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965345941 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965349025 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965352560 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965355661 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965358872 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965361960 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965365059 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965368137 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965371201 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965374372 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965377454 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965380525 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965383770 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965387023 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965390102 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965393231 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965396311 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965399376 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965402442 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965405506 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965408601 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965411883 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965414960 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965418022 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965421111 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965424178 tunnel running, 2 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-ask-mph.gl.at.ply.gg:1236 => 127.0.0.1:1236 (minecraft-bedrock)
-there-rooms.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745965427279 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745967179397 tunnel running, 2 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
