@@ -84,7 +84,26 @@
   "destination": {
     "saved": [],
     "dest": {},
-    "lastdeath": [],
+    "lastdeath": [
+      {
+        "x": 55,
+        "y": 113,
+        "z": -27,
+        "dimension": "world"
+      },
+      {
+        "x": 63,
+        "y": 114,
+        "z": -19,
+        "dimension": "world"
+      },
+      {
+        "x": 60,
+        "y": 113,
+        "z": -24,
+        "dimension": "world"
+      }
+    ],
     "setting": {
       "ylevel": false,
       "autoclear": true,
