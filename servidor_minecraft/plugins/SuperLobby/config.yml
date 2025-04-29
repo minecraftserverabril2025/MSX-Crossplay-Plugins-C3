@@ -2,8 +2,8 @@
 debug: false
 newconfig: true
 update-check: true
-prefix: '&6SuperLobby &e>> &7'
-messages: EN
+prefix: '&6SuperL &e>> &7'
+messages: ES
 join-clear-inventory: true
 join-clear-inventory-bypass: false
 join-clear-chat: true
