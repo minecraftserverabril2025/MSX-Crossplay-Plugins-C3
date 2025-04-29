@@ -26,7 +26,7 @@ sleep:
   world:
     enabled: true
     calculation-method: percentage
-    percentage-required: 0.5
+    percentage-required: 0.1
     players-required: 5
     mob-no-target: true
     use-exempt: false
@@ -40,7 +40,7 @@ sleep:
     exempt-spectator: false
     prevent-sleep: false
     prevent-phantom: false
-    nightcycle-animation: false
+    nightcycle-animation: true
     storm-sleep: true
     skip-delay: 0
     heal: false
