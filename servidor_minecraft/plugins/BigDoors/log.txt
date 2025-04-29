@@ -106,3 +106,6 @@
 
 
 [29-04-2025 21:15:49] Running in an invalid environment: 'Geyser-Spigot'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
+
+
+[29-04-2025 21:59:29] Running in an invalid environment: 'Geyser-Spigot'. This can be bypassed in the config if you are feeling adventurous (unsafeMode).
