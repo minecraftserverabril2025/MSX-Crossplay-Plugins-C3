@@ -14,6 +14,8 @@
 '127_240_173_60':
 - ZZRoyers_Admin
 - zanta
+'127_219_176_152':
+- Prueba_N1
 '127_0_0_1':
 - .ZZRoyers
 - .ComfyZebra43506
