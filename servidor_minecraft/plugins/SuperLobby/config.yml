@@ -206,16 +206,16 @@ jump-pads:
   - auth
 join-boss-bar:
   enable: true
-  message: '&3Welcome to mundopixels!'
+  message: '&3Bienvenido a MSX Crossplay!'
   color: BLUE
   style: NOTCHED_20
   seconds: 10
 join-tab:
   enable: true
-  update: 1000
+  update: 600
   header: |-
     &7
-    &f&m--&7&m--&8&m[-&r &6&lMUNDO&f&lPIXELS &7&lNETWORK &8&m-]&7&m--&f&m--
+    &f&m--&7&m--&8&m[-&r &6&lMSX&f&lCrossplay &7&lthere-rooms.gl.joinmc.link &8&m-]&7&m--&f&m--
     &7
   footer: |-
     &7
@@ -228,14 +228,14 @@ join-titles:
   fade-in: 20
   stay: 50
   fade-out: 10
-  title: '&6<player> &bWelcome to'
-  sub-title: '&6&lMUNDO&f&lPIXELS'
+  title: '&6<player> &bBienvenido a'
+  sub-title: '&6&lMSX&f&lCrossplay'
 join-motd:
   enable: true
   message:
   - '&a&m---------------------------------------------------'
   - ' '
-  - '&a# &6&l<player> &7Welcome to &6&lMUNDO&f&lPIXELS &fNETWORK!'
+  - '&a# &6&l<player> &7Entra a&6&lMSX&f&lCrossplay &fNETWORK!'
   - ' '
   - '&a# &7Buy rank on: &2tienda.mundopixels.net'
   - '&a# &7Facebook: &2facebook.mundopixels.net'
@@ -245,7 +245,7 @@ join-motd:
 join-action-bar:
   enable: true
   seconds: 10
-  message: '&6Welcome to mundopixels!'
+  message: '&6Bienvenido a MSX Crossplay!'
 commands-blacklist:
   enable: true
   bypass: superlobby.admin
