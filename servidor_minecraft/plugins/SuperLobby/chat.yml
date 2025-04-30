@@ -1,6 +1,6 @@
 
 chat-format:
-  enable: true
+  enable: false
   format:
     default: '{PREFIX} &r{PLAYER_NAME} &e&l> &7{MESSAGE}'
     vip: '{PREFIX} &r{PLAYER_NAME} &e&l> &5{MESSAGE}'

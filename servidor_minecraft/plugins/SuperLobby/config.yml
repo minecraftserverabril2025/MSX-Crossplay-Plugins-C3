@@ -215,7 +215,7 @@ join-tab:
   update: 600
   header: |-
     &7
-    &f&m--&7&m--&8&m[-&r &6&lMSX&f&lCrossplay &7&lthere-rooms.gl.joinmc.link &8&m-]&7&m--&f&m--
+    &f&m--&7&m--&8&m[-&r &6&MSX&f&Crossplay &7&there-rooms.gl.joinmc.link &8&m-]&7&m--&f&m--
     &7
   footer: |-
     &7
@@ -229,13 +229,13 @@ join-titles:
   stay: 50
   fade-out: 10
   title: '&6<player> &bBienvenido a'
-  sub-title: '&6&lMSX&f&lCrossplay'
+  sub-title: '&6&MSX&f&Crossplay'
 join-motd:
   enable: true
   message:
   - '&a&m---------------------------------------------------'
   - ' '
-  - '&a# &6&l<player> &7Entra a&6&lMSX&f&lCrossplay &fNETWORK!'
+  - '&a# &6&l<player> &7Entra a&6&MSX&f&Crossplay &fNETWORK!'
   - ' '
   - '&a# &7Buy rank on: &2tienda.mundopixels.net'
   - '&a# &7Facebook: &2facebook.mundopixels.net'
