@@ -14,7 +14,7 @@
   },
   "hud": {
     "editing": true,
-    "loop-ticks": 30
+    "loop-ticks": 15
   },
   "destination": {
     "saving": true,
@@ -24,7 +24,7 @@
       "saving": true,
       "max-deaths": 4
     },
-    "loop-ticks": 20
+    "loop-ticks": 1
   },
   "social": {
     "enabled": true,
