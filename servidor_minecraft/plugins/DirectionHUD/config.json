@@ -12,14 +12,8 @@
     "max-y": 512,
     "max-xz": 30000000
   },
-  "destination": {
-    "saving": true,
-    "max-saved": 50,
-    "global": false,
-    "lastdeath": {
-      "saving": true,
-      "max-deaths": 4
-    },
+  "hud": {
+    "editing": true,
     "loop-ticks": 20
   },
   "social": {
