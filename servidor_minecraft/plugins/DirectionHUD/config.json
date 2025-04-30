@@ -20,7 +20,7 @@
       "saving": true,
       "max-deaths": 4
     },
-    "loop-ticks": 100
+    "loop-ticks": 20
   },
   "social": {
     "enabled": true,
