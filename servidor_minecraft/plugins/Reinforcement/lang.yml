@@ -1,7 +1,0 @@
-reinforcement_message_prefix: "&e[Reinforcement]"
-
-reinforcement_mode_on: "&aENABLED"
-reinforcement_mode_off: "&cDISABLED"
-
-reinforcement_visibility_on: "Visibility mode &aon"
-reinforcement_visibility_off: "Visibility mode &coff"
