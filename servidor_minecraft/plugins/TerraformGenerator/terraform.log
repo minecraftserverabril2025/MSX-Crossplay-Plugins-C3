@@ -1145,3 +1145,88 @@
 [2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -764 -12 326 in a room of size 16x24 
 [2025-05-02 22:08:28] [INFO   ] Falling back to NMS bee spawning (addEntity api not present) 
 [2025-05-02 22:08:29] [INFO   ] [0, 0],32 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2025-05-02 22:11:21] [INFO   ]  Custom Logger Initialized 
+[2025-05-02 22:11:21] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2025-05-02 22:11:21] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2025-05-02 22:11:21] [INFO   ] Watchdog Thread hooked. 
+[2025-05-02 22:11:21] [INFO   ]  bStats Metrics enabled. 
+[2025-05-02 22:11:21] [INFO   ]  Detected version: 1.21.3, number: 21.3 
+[2025-05-02 22:11:21] [INFO   ] Unfreezing biome registry... 
+[2025-05-02 22:11:21] [INFO   ] Registered custom biome: muddy_bog 
+[2025-05-02 22:11:21] [INFO   ] Registered custom biome: cherry_grove 
+[2025-05-02 22:11:21] [INFO   ] Registered custom biome: scarlet_forest 
+[2025-05-02 22:11:21] [INFO   ] Registered custom biome: crystalline_cluster 
+[2025-05-02 22:11:21] [INFO   ] Freezing biome registry 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: TrialChamberPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2025-05-02 22:11:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2025-05-02 22:11:22] [INFO   ] Creating TW instance: world - -7655972895918381312 
+[2025-05-02 22:11:22] [INFO   ]  Detected world: world, commencing injection...  
+[2025-05-02 22:11:22] [INFO   ] Creating TW instance: world - -7655972895918381312 
+[2025-05-02 22:11:22] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2025-05-02 22:11:22] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
+[2025-05-02 22:11:22] [INFO   ]  Injection success! Proceeding with generation. 
+[2025-05-02 22:11:24] [INFO   ]  world loaded. 
+[2025-05-02 22:14:15] [INFO   ] Spawning ancient city at: -704,-20,320 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -762 -20 322 in a room of size 22x17 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -758 -20 352 in a room of size 18x23 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -696 -20 328 in a room of size 46x46 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -749 -20 297 in a room of size 19x25 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -644 -20 380 in a room of size 18x17 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -743 -20 274 in a room of size 18x16 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -646 -20 359 in a room of size 23x26 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -694 -20 273 in a room of size 17x20 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -741 -20 329 in a room of size 19x21 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -749 -20 378 in a room of size 18x24 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -664 -20 309 in a room of size 16x19 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -701 -20 373 in a room of size 25x16 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -722 -20 268 in a room of size 16x26 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -657 -20 334 in a room of size 23x23 
+[2025-05-02 22:14:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -653 -20 284 in a room of size 24x16 
+[2025-05-02 22:14:15] [INFO   ] Will spawn stronghold at: CoordPair[x=1205, z=-727] 
+[2025-05-02 22:14:17] [INFO   ] Falling back to NMS bee spawning (addEntity api not present) 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -766 19 866 in a room of size 13x13 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -762 19 815 in a room of size 13x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -705 19 826 in a room of size 14x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -772 19 793 in a room of size 13x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -731 19 856 in a room of size 15x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -650 19 779 in a room of size 14x13 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -736 19 807 in a room of size 15x15 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -633 19 830 in a room of size 14x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -731 19 906 in a room of size 13x15 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -633 34 830 in a room of size 14x7 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -636 34 867 in a room of size 14x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -766 34 866 in a room of size 13x5 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -736 34 807 in a room of size 15x7 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -674 34 871 in a room of size 13x15 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -671 34 857 in a room of size 13x13 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -728 34 844 in a room of size 13x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -714 34 827 in a room of size 14x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -746 34 831 in a room of size 14x13 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -762 34 815 in a room of size 13x5 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -683 34 837 in a room of size 14x14 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -681 34 819 in a room of size 14x13 
+[2025-05-02 22:14:17] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -636 34 767 in a room of size 15x15 
+[2025-05-02 22:14:40] [INFO   ] Spawning CaveFluidClusterPopulator at -560,32,240 
+[2025-05-02 22:14:40] [INFO   ] Spawning MossyCavePopulator at -560,0,240 
+[2025-05-02 22:14:40] [INFO   ] Spawning DeepCavePopulator at -545,-51,248 
+[2025-05-02 22:14:40] [INFO   ] Spawning FrozenCavePopulator at -576,34,240 

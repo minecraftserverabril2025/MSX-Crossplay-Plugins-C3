@@ -30,10 +30,10 @@ disable-out-of-border-teleport: true
 
 worlds:
   world:
-    border_size: 30000
+    border_size: 60000
     center_x: 0
     center_z: 0
   world_the_end:
-    border_size: 50000
+    border_size: 60000
     center_x: 100
     center_z: -200

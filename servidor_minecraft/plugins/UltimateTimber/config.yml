@@ -172,7 +172,7 @@ hooks-require-ability-active: false
 # Types: FANCY, DISINTEGRATE, CRUMBLE, NONE
 # You can override the animation a player will receive using the
 # permission ultimatetimber.animation.<type>
-tree-animation-type: CRUMBLE
+tree-animation-type: DISINTEGRATE
 
 # If the tree-animation-type is FANCY or CRUMBLE, make the blocks stick to the ground
 # Does nothing if tree-animation-type is not FANCY or CRUMBLE
