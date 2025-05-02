@@ -1106,3 +1106,42 @@
 [2025-05-02 21:59:38] [INFO   ] Spawning CaveFluidClusterPopulator at 40,55,520 
 [2025-05-02 21:59:38] [INFO   ] Spawning DripstoneClusterCavePopulator at -64,-17,512 
 [2025-05-02 21:59:38] [INFO   ] Spawning LushClusterCavePopulator at -128,17,512 
+[2025-05-02 22:06:54] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -16,36 
+[2025-05-02 22:06:56] [INFO   ] Spawning FrozenCavePopulator at -13,18,620 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -633 -4 830 in a room of size 14x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -731 -4 906 in a room of size 13x15 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -762 -4 815 in a room of size 13x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -705 -4 826 in a room of size 14x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -772 -4 793 in a room of size 13x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -736 -4 807 in a room of size 15x15 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -650 -4 779 in a room of size 14x13 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -766 -4 866 in a room of size 13x13 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -731 -4 856 in a room of size 15x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -671 11 857 in a room of size 13x13 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -681 11 819 in a room of size 14x13 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -728 11 844 in a room of size 13x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -636 11 867 in a room of size 14x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -633 11 830 in a room of size 14x7 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -636 11 767 in a room of size 15x15 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -683 11 837 in a room of size 14x14 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -650 11 779 in a room of size 14x7 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -746 11 831 in a room of size 14x13 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -674 11 871 in a room of size 13x15 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -752 11 810 in a room of size 13x15 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -714 11 827 in a room of size 14x14 
+[2025-05-02 22:08:28] [INFO   ] Spawning ancient city at: -704,-12,320 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -721 -12 376 in a room of size 19x16 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -652 -12 267 in a room of size 26x18 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -696 -12 328 in a room of size 46x46 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -691 -12 288 in a room of size 18x19 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -738 -12 278 in a room of size 19x24 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -647 -12 347 in a room of size 23x18 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -743 -12 338 in a room of size 16x26 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -717 -12 280 in a room of size 21x26 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -742 -12 313 in a room of size 19x23 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -751 -12 365 in a room of size 17x18 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -660 -12 304 in a room of size 20x19 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -760 -12 267 in a room of size 16x18 
+[2025-05-02 22:08:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -764 -12 326 in a room of size 16x24 
+[2025-05-02 22:08:28] [INFO   ] Falling back to NMS bee spawning (addEntity api not present) 
+[2025-05-02 22:08:29] [INFO   ] [0, 0],32 will spawn a vanilla structure, with tryGenerateStructure == true 
