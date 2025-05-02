@@ -379,3 +379,13 @@ java.lang.IncompatibleClassChangeError: Method 'org.bukkit.Sound org.bukkit.Soun
 [21:41:58] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [21:41:58] [Server thread/INFO]: [AngelChest] ========================================================
 [21:42:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:51:28] [User Authenticator #0/INFO]: UUID of player ZZRoyers_Admin is 4ac5f206-e9ba-3f71-a041-d4d115229fd5
+[21:51:30] [Server thread/INFO]: ZZRoyers_Admin joined the game
+[21:51:30] [Server thread/INFO]: ZZRoyers_Admin[/127.169.251.75:36341] logged in with entity id 9 at ([world]10.0158192598025, 72.0, 231.9938899302007)
+[21:51:33] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fcb355e1-18bc-4bea-ba8a-5477ff39e44a, mapped to Cod['Cod'/246, uuid='fcb355e1-18bc-4bea-ba8a-5477ff39e44a', l='ServerLevel[world]', x=79.09, y=57.07, z=329.36, cpos=[4, 20], tl=68184, v=true], can't add Cod['Cod'/265, uuid='fcb355e1-18bc-4bea-ba8a-5477ff39e44a', l='ServerLevel[world]', x=85.58, y=52.05, z=336.54, cpos=[5, 21], tl=67936, v=false]
+[21:53:26] [Server thread/INFO]: [UltimateTimber]  Configuration and locale files have been reloaded.
+[21:54:38] [Server thread/INFO]: [UltimateTimber]  Configuration and locale files have been reloaded.
+[21:55:14] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[21:57:24] [Server thread/INFO]: [UltimateTimber]  Configuration and locale files have been reloaded.
+[21:59:00] [Server thread/INFO]: [UltimateTimber]  Configuration and locale files have been reloaded.
+[21:59:21] [Server thread/INFO]: Set the time to 8000

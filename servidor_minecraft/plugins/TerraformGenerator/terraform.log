@@ -1084,3 +1084,25 @@
 [2025-05-02 21:41:38] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2025-05-02 21:41:38] [INFO   ]  Injection success! Proceeding with generation. 
 [2025-05-02 21:41:40] [INFO   ]  world loaded. 
+[2025-05-02 21:53:41] [INFO   ] Spawning ancient city at: -192,-15,320 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -199 -15 291 in a room of size 19x25 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -202 -15 378 in a room of size 22x18 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -246 -15 265 in a room of size 24x20 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -248 -15 376 in a room of size 17x25 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -152 -15 362 in a room of size 20x22 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -167 -15 260 in a room of size 23x20 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -166 -15 282 in a room of size 22x17 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -184 -15 328 in a room of size 46x46 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -143 -15 335 in a room of size 19x21 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -144 -15 272 in a room of size 21x21 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -187 -15 360 in a room of size 24x18 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -222 -15 369 in a room of size 19x18 
+[2025-05-02 21:53:41] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -141 -15 303 in a room of size 17x17 
+[2025-05-02 21:53:41] [INFO   ] Spawning MossyCavePopulator at -224,28,400 
+[2025-05-02 21:53:41] [INFO   ] Spawning DeepCavePopulator at -224,-43,400 
+[2025-05-02 21:53:41] [INFO   ] Spawning ForestedMountainsCavePopulator at -210,54,400 
+[2025-05-02 21:53:41] [INFO   ] Will spawn stronghold at: CoordPair[x=1205, z=-727] 
+[2025-05-02 21:59:38] [INFO   ] Spawning CrystallineClusterCavePopulator at 0,22,516 
+[2025-05-02 21:59:38] [INFO   ] Spawning CaveFluidClusterPopulator at 40,55,520 
+[2025-05-02 21:59:38] [INFO   ] Spawning DripstoneClusterCavePopulator at -64,-17,512 
+[2025-05-02 21:59:38] [INFO   ] Spawning LushClusterCavePopulator at -128,17,512 
