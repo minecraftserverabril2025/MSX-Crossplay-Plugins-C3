@@ -2,18 +2,18 @@
 #> Some information is provided in the form of comments
 #> For more info visit https://github.com/lenis0012/LoginSecurity-2/wiki/Configuration
 register:
-  required: true
+  required: false
   # When enabled, users need to enter a captcha upon registration.
   captcha: false
   # When enabled, requires users to enter their password twice upon registration.
   confirm-password: false
 login:
-  max-tries: 5
+  max-tries: 30
   # Only allow registered players to join using exactly the same name as registered.
-  username-match-exact: true
+  username-match-exact: false
 password:
-  min-length: 6
-password-max-length: 32
+  min-length: 5
+password-max-length: 15
 join:
   # When enabled, player gets a blindness effect when not logged in.
   blindness: true
@@ -22,11 +22,11 @@ join:
   location: DEFAULT
   # Safely hides the player's inventory until the player is logged in
   # This required ProtocolLib to be installed
-  hide-inventory-safe: false
+  hide-inventory-safe: true
 username:
   # Remove special characters like @ and # from the username.
   # Disabling this can be a security risk!
-  filter-special-chars: true
+  filter-special-chars: false
   min-length: 3
   max-length: 16
 registration:
@@ -35,7 +35,7 @@ registration:
   disabled-message: '&cRegistrations are currently disabled!'
 # Shortcut that can be used as alternative to login/register command. Does not replace the defaults
 command-shortcut:
-  enabled: false
+  enabled: true
   login: /l
   register: /reg
 updater:
@@ -45,10 +45,10 @@ updater:
 # Session timeout in seconds, set to -1 to disable.
 session-timeout: 60
 # Login timeout in seconds, set to -1 to disable.
-login-timeout: 120
+login-timeout: -1
 # Login/register message delay in seconds.
 login-message-delay: 10
 # Language for messages, check wiki for more info.
 # List: https://github.com/lenis0012/Translations
 # This setting should be set tot he file name without .json
-language: en_us
+language: es_mx
