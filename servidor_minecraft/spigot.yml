@@ -17,10 +17,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
 settings:
   bungeecord: false
   save-user-cache-on-stop-only: false
@@ -57,8 +53,13 @@ commands:
   - summon
   - testforblock
   - tellraw
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 world-settings:
   default:
+    verbose: false
     below-zero-generation-in-existing-chunks: true
     view-distance: default
     simulation-distance: default
@@ -172,7 +173,6 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    verbose: false
   worldeditregentempworld:
     verbose: false
 players:
